@@ -2,7 +2,7 @@
 
 ### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:hammer: &nbsp;Atualmente trabalhando como Desenvolvedor .NET na [Elaw Tecnologia S.A.](https://elaw.com.br/) \
+&nbsp;&nbsp;&nbsp;:hammer: &nbsp;Atualmente trabalhando como Desenvolvedor .NET na [Localiza](https://www.localiza.com/) \
 &nbsp;&nbsp;&nbsp;:books: &nbsp;Cursando quinto semestre em Sistemas de Informação.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por tecnologia e solução de problemas.
 
