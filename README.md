@@ -2,8 +2,8 @@
 
 ### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:hammer: &nbsp;Atualmente trabalhando como Desenvolvedor .NET na [Localiza](https://www.localiza.com/) \
-&nbsp;&nbsp;&nbsp;:books: &nbsp;Cursando quinto semestre em Sistemas de Informação.\
+&nbsp;&nbsp;&nbsp;:hammer: &nbsp;Atualmente trabalhando como Desenvolvedor .NET Senior na [Localiza](https://www.localiza.com/) \
+&nbsp;&nbsp;&nbsp;:books: &nbsp;Formado em Sistemas de Informação.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por tecnologia e solução de problemas.
 
 <p align="center">
